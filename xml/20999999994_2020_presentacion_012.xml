@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentacion>
+	<periodo>2020</periodo>
+	<nroPresentacion>12</nroPresentacion>
+	<fechaPresentacion>2020-12-03</fechaPresentacion>
+	<empleado>
+		<cuit>20999999994</cuit>
+		<tipoDoc>80</tipoDoc>
+		<apellido>PEREZ</apellido>
+		<nombre>JUAN</nombre>
+		<direccion>
+			<provincia>1</provincia>
+			<cp>1896</cp>
+			<localidad>TRIBUNALES</localidad>
+			<calle>Calle de Prueba</calle>
+			<nro>99</nro>
+		</direccion>
+	</empleado>
+	<cargasFamilia>
+		<cargaFamilia>
+			<tipoDoc>86</tipoDoc>
+			<nroDoc>20XXXXXXXX0</nroDoc>
+			<apellido>PEREZ</apellido>
+			<nombre>JUANCITO</nombre>
+			<fechaNac>2007-01-01</fechaNac>
+			<mesDesde>1</mesDesde>
+			<mesHasta>12</mesHasta>
+			<parentesco>3</parentesco>
+			<vigenteProximosPeriodos>S</vigenteProximosPeriodos>
+			<porcentajeDeduccion>50</porcentajeDeduccion>
+		</cargaFamilia>
+		<cargaFamilia>
+			<tipoDoc>86</tipoDoc>
+			<nroDoc>27XXXXXXXX1</nroDoc>
+			<apellido>PEREZ</apellido>
+			<nombre>JUANA</nombre>
+			<fechaNac>2011-01-01</fechaNac>
+			<mesDesde>1</mesDesde>
+			<mesHasta>12</mesHasta>
+			<parentesco>3</parentesco>
+			<vigenteProximosPeriodos>S</vigenteProximosPeriodos>
+			<porcentajeDeduccion>50</porcentajeDeduccion>
+		</cargaFamilia>
+	</cargasFamilia>
+	<deducciones>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>500</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="1"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="1"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="2"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="3"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="4"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="5"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="6"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>600</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="7"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>700</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="8"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>700</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="9"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>700</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="10"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>700</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="11"/>
+			</detalles>
+		</deduccion>
+		<deduccion tipo="99">
+			<tipoDoc>80</tipoDoc>
+			<nroDoc>30XXXXXXXX5</nroDoc>
+			<denominacion>CAJA DE PREVISION SOCIAL</denominacion>
+			<descBasica>Cajas Provinciales o Municipales</descBasica>
+			<descAdicional>CAJA DE PREVISION SOCIAL</descAdicional>
+			<montoTotal>700</montoTotal>
+			<detalles>
+				<detalle nombre="motivo" valor="2"/>
+				<detalle nombre="mes" valor="12"/>
+			</detalles>
+		</deduccion>
+	</deducciones>
+</presentacion>
